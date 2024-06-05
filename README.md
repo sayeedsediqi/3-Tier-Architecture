@@ -14,7 +14,10 @@ terraform/
 |-- network.tf
 |-- sql_mi.tf
 |-- webapp.tf
-|-- security.tf
-|-- outputs.tf
+|-- firewall.tf
+|-- nsg.tf
+|-- udr.tf
+|-- private_endpoints.tf
 |-- terraform.tfvars
 azure-pipelines.yml
+
